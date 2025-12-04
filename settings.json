@@ -3,7 +3,7 @@
    "accentOnWindow": true,
    "accentSaturationLimit": 1,
    "alpha": 1,
-   "backgroundImage": "background.svg",
+   "backgroundImage": "background.png",
    "backgroundPosition": "stretch",
    "blur": 10,
    "buttons": {
