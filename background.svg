@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <radialGradient id="capy-gradient" cx="50%" cy="0%" r="80%">
+      <stop offset="0%" style="stop-color:rgba(30, 128, 199, 0.35);stop-opacity:1" />
+      <stop offset="40%" style="stop-color:rgba(30, 128, 199, 0.15);stop-opacity:1" />
+      <stop offset="70%" style="stop-color:rgba(30, 128, 199, 0.05);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgba(30, 128, 199, 0);stop-opacity:0" />
+    </radialGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="#1c1d21"/>
+  <rect width="1920" height="1080" fill="url(#capy-gradient)"/>
+  
+  <!-- Capy logo in upper left corner -->
+  <g transform="translate(40, 150) scale(0.8)">
+    <!-- Capybara body -->
+    <ellipse cx="50" cy="58" rx="28" ry="24" fill="#c9a87a" stroke="#1e80c7" stroke-width="2.5"/>
+    <!-- Capybara head -->
+    <circle cx="50" cy="35" r="18" fill="#c9a87a" stroke="#1e80c7" stroke-width="2.5"/>
+    <!-- Ears -->
+    <ellipse cx="40" cy="24" rx="5" ry="8" fill="#c9a87a" stroke="#1e80c7" stroke-width="2"/>
+    <ellipse cx="60" cy="24" rx="5" ry="8" fill="#c9a87a" stroke="#1e80c7" stroke-width="2"/>
+    <!-- Eyes -->
+    <circle cx="44" cy="32" r="2.5" fill="#000000"/>
+    <circle cx="56" cy="32" r="2.5" fill="#000000"/>
+    <!-- Nose -->
+    <ellipse cx="50" cy="40" rx="4" ry="3" fill="#704f3d"/>
+    <!-- Smile -->
+    <path d="M 46 42 Q 50 44 54 42" stroke="#704f3d" stroke-width="2" fill="none"/>
+    <!-- Front legs -->
+    <rect x="38" y="75" width="8" height="15" rx="4" fill="#c9a87a" stroke="#1e80c7" stroke-width="2"/>
+    <rect x="54" y="75" width="8" height="15" rx="4" fill="#c9a87a" stroke="#1e80c7" stroke-width="2"/>
+    <!-- Smartphone in hand -->
+    <rect x="62" y="50" width="14" height="22" rx="2" fill="#1e80c7" stroke="#000000" stroke-width="2"/>
+    <rect x="64" y="52" width="10" height="16" fill="#ffffff"/>
+    <circle cx="69" cy="70" r="1.5" fill="#cccccc"/>
+    <!-- Stuffed elephant on head -->
+    <!-- Elephant body -->
+    <ellipse cx="50" cy="12" rx="7" ry="5" fill="#ff9955" stroke="#1e80c7" stroke-width="1.5"/>
+    <!-- Elephant head -->
+    <circle cx="50" cy="8" r="4" fill="#ff9955" stroke="#1e80c7" stroke-width="1.5"/>
+    <!-- Elephant trunk -->
+    <path d="M 50 10 Q 48 13 49 15" stroke="#ff9955" stroke-width="3" fill="none" stroke-linecap="round"/>
+    <!-- Elephant ears -->
+    <ellipse cx="47" cy="7" rx="2" ry="3" fill="#ff9955" stroke="#1e80c7" stroke-width="1"/>
+    <ellipse cx="53" cy="7" rx="2" ry="3" fill="#ff9955" stroke="#1e80c7" stroke-width="1"/>
+    <!-- Elephant eyes -->
+    <circle cx="48" cy="7" r="0.8" fill="#000000"/>
+    <circle cx="52" cy="7" r="0.8" fill="#000000"/>
+  </g>
+</svg>

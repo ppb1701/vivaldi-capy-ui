@@ -1,0 +1,29 @@
+{
+   "accentFromPage": false,
+   "accentOnWindow": true,
+   "accentSaturationLimit": 1,
+   "alpha": 1,
+   "backgroundImage": "background.svg",
+   "backgroundPosition": "stretch",
+   "blur": 10,
+   "buttons": {
+      "Home": "Home.svg"
+   },
+   "colorAccentBg": "#1c2e3d",
+   "colorBg": "#1c1d21",
+   "colorFg": "#1e80c7",
+   "colorHighlightBg": "#5f626d",
+   "colorWindowBg": "#255372",
+   "contrast": 0,
+   "dimBlurred": false,
+   "engineVersion": 1,
+   "id": "27bde92d-9ba8-4b2d-8853-b6f33df99de6",
+   "name": "Capy Ui",
+   "preferSystemAccent": false,
+   "radius": 14,
+   "simpleScrollbar": false,
+   "transparencyTabBar": false,
+   "transparencyTabs": false,
+   "url": "",
+   "version": 1
+}
