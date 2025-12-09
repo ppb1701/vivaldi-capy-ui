@@ -14,9 +14,9 @@ Electric Blue dark theme for Vivaldi browser, inspired by the Mastodon Capy UI a
 
 ## Installation
 
-### From Vivaldi Theme Store (Recommended)
+### From Vivaldi Theme Store (Recommended) 
 
-1. Visit the theme page: https://themes.vivaldi.net/themes/VmjvVq1YlYg
+1. Visit the theme page: *coming soon-awaiting approval*
 2. Click **Download Theme**
 3. Theme will be automatically installed and activated
 
